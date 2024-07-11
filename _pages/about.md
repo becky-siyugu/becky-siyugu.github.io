@@ -15,7 +15,7 @@ Hi! I'm an undergraduate fourth-year student majoring in Accounting from [School
 
 I have a very cute boyfriend named Yanming Zhang.
 
-[Email](mailto: siyu.gu@zju.edu.cn) / [Wechat](../images/Wechat.jpg) / [CV](../assets/Siyu_Gu.pdf)
+[Email](mailto: siyu.gu@zju.edu.cn) / [Wechat](../images/Wechat.jpg) / [CV](../assets/CV-Siyu_Gu.pdf)
 
 
 Education
