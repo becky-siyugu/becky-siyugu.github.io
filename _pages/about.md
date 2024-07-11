@@ -11,7 +11,7 @@ About me
 ======
 Hi! I'm an undergraduate student majoring in Accounting from [School of Management](http://www.som.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). 
 
-I have a very cute boyfriend name [Yanming Zhang](https://zhangyanming-cs.github.io/).
+I have a very cute boyfriend named [Yanming Zhang](https://zhangyanming-cs.github.io/).
 
 You can find my CV here: [CV-Siyu Gu](../assets/Siyu_Gu.pdf)
 
