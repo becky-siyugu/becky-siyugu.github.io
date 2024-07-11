@@ -38,4 +38,4 @@ I have a strong passion for sports and music. I'm in love with badminton, tennis
 I really like animals, especially cats and dogs. I'm a member of the Student Animal Protection Association of Zhejiang University.
 Besides I'm partial to sweets especially milk chocolates!
 
-![dog](../images/dog/png)
+![dog](../images/dog.png)
