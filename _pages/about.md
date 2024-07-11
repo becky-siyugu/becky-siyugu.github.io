@@ -14,6 +14,21 @@ Hi! I'm an undergraduate student majoring in Accounting from [School of Manageme
 
 I have a very cute boyfriend named Yanming Zhang.
 
-You can find my CV here: [CV-Siyu Gu](../assets/Siyu_Gu.pdf)
+[Email](mailto: siyu.gu@zju.edu.cn) / [Wechat](../images/Wechat.jpg) / [CV-Siyu Gu](../assets/Siyu_Gu.pdf)
 
-[Email](mailto: siyu.gu@zju.edu.cn) / [Wechat](../images/Wechat.jpg)
+Education
+======
+Zhejiang University - BBA
+
+Selected Awards
+======
+Third prize scholarship of Zhejiang University, 2023
+
+Second prize scholarship of Zhejiang University, 2022
+
+Professional scholarship excellence award, 2022
+
+Miscellaneous
+======
+I have a strong passion for sports and music. I'm in love with badminton, tennis, running, swimming, cycling, piano and guitar.
+And I really like animals, especially cats and dogs. I'm a member of the Student Animal Protection Association of Zhejiang University.
