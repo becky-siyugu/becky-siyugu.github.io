@@ -11,7 +11,7 @@ redirect_from:
 
 About me
 ======
-Hi! I'm an undergraduate fourth-year student majoring in Accounting from [School of Management](http://www.som.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). 
+Hi! I'm a senior undergraduate student majoring in Accounting from [School of Management](http://www.som.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). 
 
 I have a very cute boyfriend named Yanming Zhang.
 
