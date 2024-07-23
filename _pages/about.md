@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Becky / Siyu Gu [谷思妤] "
+title: "Becky / Siyu Gu 谷思妤 "
 author_profile: true
 redirect_from: 
   - /about/
