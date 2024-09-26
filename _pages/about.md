@@ -13,8 +13,6 @@ About me
 ======
 Hi! I'm a senior undergraduate student majoring in Accounting from [School of Management](http://www.som.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/). 
 
-I have a very cute boyfriend named Yanming Zhang.
-
 [Email](mailto: siyu.gu@zju.edu.cn) / [Wechat](../images/Wechat.jpg) / [CV](../assets/CV-Siyu_Gu.pdf)
 
 
